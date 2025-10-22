@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Idle Magus"
+run/main_scene="uid://cbyqjo5q43y5p"
 config/features=PackedStringArray("4.5", "Forward Plus")
 
 [file_customization]
